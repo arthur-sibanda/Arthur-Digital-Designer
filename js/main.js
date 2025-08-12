@@ -122,3 +122,4 @@ function scrollToTop() {
 // Event Listeners
 window.addEventListener('scroll', toggleBackToTop);
 backToTopButton.addEventListener('click', scrollToTop);
+
